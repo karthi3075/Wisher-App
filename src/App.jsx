@@ -1,4 +1,5 @@
-import Todo from "./components/Todo";
+// import Todo from "./components/Todo";
+import Wish from "./components/Wish";
 
 // import Api from "./components/Api";
 // import Counter from "./components/Counter";
@@ -10,7 +11,8 @@ import Todo from "./components/Todo";
 function App() {
       return(
         <div>
-            <Todo/>
+            {/* <Todo/> */}
+            <Wish/>
             {/* <UserLogin/> */}
             {/* <AdminLogin/> */}
             {/* <UserRegistration/> */}
