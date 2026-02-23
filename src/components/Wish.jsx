@@ -5,7 +5,7 @@ export default function Wish(){
         <div className="h-screen flex justify-center items-center w-screen bg-gray-500">
             <ReactConfetti/>
             <div className="p-3 bg-blue-100 rounded-md flex flex-col gap-3 items-center">
-                <img src="/src/assets/11374.jpg" alt="" />
+                <img src="/photo.jpg" alt="" />
                 <audio controls autoPlay loop>
                     <source src="/song.mp3" type="audio/mpeg" autoPlay/>
                 </audio>
