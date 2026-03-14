@@ -1,9 +1,9 @@
-import Wish from "./components/Wish";
+import Wish from "./components/Wisher";
 
 function App() {
       return(
         <div>
-            <Wish/>
+            <Wisher/>
         </div>
       );
 }
